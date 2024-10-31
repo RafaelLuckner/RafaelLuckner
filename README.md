@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @RafaelLuckner
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
 
-<!---
-RafaelLuckner/RafaelLuckner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Olá, eu sou Rafael Luckner 👋
+
+Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de atuar como Cientista de Dados, aplicando machine learning e estatística para gerar valor nos negócios. Abaixo, você pode conhecer alguns dos meus projetos e as tecnologias que uso!
+
+### 🔧 Tecnologias & Ferramentas
+- **Linguagens**: Python, SQL
+- **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook
+- **Machine Learning**: Sklearn, Pandas, Matplotlib, Seaborn, Streamlit
+
+### 🌟 Projetos em Destaque
+- **Fome Zero**: Painel no Streamlit para acompanhamento de KPIs em um marketplace de restaurantes. [Link para o projeto](https://github.com/RafaelLuckner/Projeto_Fome_Zero)
+
+### 📫 Onde Me Encontrar
+- [LinkedIn](https://www.linkedin.com/in/rafael-luckner/)
+- [E-mail](mailto:rafaelluckner1@gmail.com)
