@@ -1,7 +1,7 @@
 
 # Olá, eu sou Rafael Luckner 👋
 
-Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de atuar como Cientista de Dados, aplicando machine learning e estatística para gerar valor nos negócios. Abaixo, você pode conhecer alguns dos meus projetos e as tecnologias que uso!
+Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de atuar como Cientista de Dados, aplicando machine learning estatística e meus conhecinentos em negócio para gerar valor com dados. Abaixo, você pode conhecer alguns dos meus projetos e as tecnologias que utilizo no dia a dia!
 
 ### 🔧 Tecnologias & Ferramentas
 - **Linguagens**: Python, SQL.
@@ -12,7 +12,7 @@ Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de 
 - **Comunicação**: Habilidade de traduzir conceitos técnicos em insights claros e aplicáveis para diferentes públicos.
 - **Trabalho em Equipe**: Experiência colaborando em projetos com equipes multidisciplinares, promovendo a cooperação e o apoio mútuo.
 - **Adaptabilidade**: Facilidade para se adaptar a novos desafios e tecnologias, mantendo o foco em resolver problemas de maneira eficaz.
-- **Pensamento Analítico**: Capacidade de analisar dados e situações de forma crítica para identificar padrões e soluções.
+- **Pensamento Analítico**: Capacidade de analisar dados em contextos especificos e forma crítica, com objetivo de gerar hipóteses, encontrar padrões e soluções.
 
 
 ### 🌟 Projetos em Destaque
