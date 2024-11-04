@@ -12,7 +12,7 @@ Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de 
 - **Comunicação**: Habilidade de traduzir conceitos técnicos em insights claros e aplicáveis para diferentes públicos.
 - **Trabalho em Equipe**: Experiência colaborando em projetos com equipes multidisciplinares, promovendo a cooperação e o apoio mútuo.
 - **Adaptabilidade**: Facilidade para se adaptar a novos desafios e tecnologias, mantendo o foco em resolver problemas de maneira eficaz.
-- **Pensamento Analítico**: Capacidade de analisar dados em contextos especificos e forma crítica, com objetivo de gerar hipóteses, encontrar padrões e soluções.
+- **Pensamento Analítico**: Capacidade de analisar dados em contextos especificos de forma crítica, com objetivo de gerar hipóteses, encontrar padrões e soluções.
 
 
 ### 🌟 Projetos em Destaque
