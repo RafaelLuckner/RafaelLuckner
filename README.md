@@ -5,8 +5,8 @@ Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de 
 
 ### 🔧 Tecnologias & Ferramentas
 - **Linguagens**: Python, SQL.
-- **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook, Streamlit.
-- **Machine Learning**: Sklearn, Pandas, Matplotlib, Seaborn.
+- **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook, .
+- **Bibliotecas**: Streamlit, Sklearn, Pandas, Matplotlib, Seaborn, Numpy.
 
 ### 🤝 Habilidades Interpessoais
 - **Comunicação**: Habilidade de traduzir conceitos técnicos em insights claros e aplicáveis para diferentes públicos.
