@@ -22,3 +22,4 @@ Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de 
 ### Onde Me Encontrar
 - [LinkedIn](https://www.linkedin.com/in/rafael-luckner/)
 - [E-mail](mailto:rafaelluckner1@gmail.com)
+- [Portifólio](https://rafaelluckner.github.io/portifolio_projetos/)
