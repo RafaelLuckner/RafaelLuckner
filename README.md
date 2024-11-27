@@ -5,7 +5,7 @@ Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de 
 
 ### Tecnologias & Ferramentas
 - **Linguagens**: Python, SQL.
-- **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook, Visual Studio.
+- **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook, Visual Studio Code.
 - **Bibliotecas**: Streamlit, Sklearn, Matplotlib, Seaborn, Numpy, Pandas.
 
 ### Habilidades Interpessoais
