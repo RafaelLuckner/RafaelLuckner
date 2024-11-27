@@ -5,7 +5,7 @@ Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de 
 
 ### Tecnologias & Ferramentas
 - **Linguagens**: Python, SQL.
-- **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook, .
+- **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook, Visual Studio.
 - **Bibliotecas**: Streamlit, Sklearn, Matplotlib, Seaborn, Numpy, Pandas.
 
 ### Habilidades Interpessoais
@@ -16,6 +16,7 @@ Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de 
 
 
 ### Projetos em Destaque
+**Previsão de Vendas**: Desenvolvimento de modelo preditivo utilizando técnicas de regressão para prever vendas em um cenário de dados históricos, aplicando análise de tendências e sazonalidade. [Link para o projeto](https://github.com/RafaelLuckner/Previsao_Vendas)
 - **Fome Zero**: Painel no Streamlit para acompanhamento de KPIs em um marketplace de restaurantes. [Link para o projeto](https://github.com/RafaelLuckner/Projeto_Fome_Zero)
 - **Ensaio de Machine Learning**: Estudo com os principais modelos de Classificação, Regressão e Clusterização e a performance de acordo com a mudança em seus principais parâmetros. [Link para o projeto](https://github.com/RafaelLuckner/ensaio-de-machine-learning)
 ### Onde Me Encontrar
