@@ -4,7 +4,7 @@
 Sou estudante de Ciência de Dados e Inteligência Artificial com o objetivo de atuar como Cientista de Dados, aplicando machine learning estatística e meus conhecimentos em negócio para gerar valor com dados. Abaixo, você pode conhecer alguns dos meus projetos e as tecnologias que utilizo no dia a dia!
 
 ### Tecnologias & Ferramentas
-- **Linguagens**: Python, SQL.
+- **Linguagens**: Python, SQL, Excel, Power BI.
 - **Ferramentas de Desenvolvimento**: Git, GitHub, Jupyter Notebook, Visual Studio Code.
 - **Bibliotecas**: Streamlit, Sklearn, Matplotlib, Seaborn, Numpy, Pandas.
 
